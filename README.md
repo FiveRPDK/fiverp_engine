@@ -1,7 +1,7 @@
-# FiveRP Engine Overheat System
+# Engine Overheat System
 
 ## Overview
-This script enhances the realism of vehicle operation within the FiveRP roleplay environment by introducing an engine overheating mechanic. It is designed to work with the QBCore, ESX and Standalone.
+This script enhances the realism of vehicle operation within the roleplay environment by introducing an engine overheating mechanic. It is designed to work with the QBCore, ESX and Standalone.
 
 ## Preview
 Watch a detailed overview and see the engine overheating system in action:
