@@ -20,7 +20,7 @@ Edit the `config.lua` file to adjust settings like speed thresholds, unit of spe
 
 ## Preview
 Watch a detailed overview and see the engine overheating system in action:
-[![FiveRP Engine Overheat System](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "FiveRP Engine Overheat System Preview")
+[![FiveRP Engine Overheat System](https://i.gyazo.com/343e9a123c84c54b43d3d4780d14dd94.jpg)](https://www.youtube.com/watch?v=eu78cfjr99w "FiveRP Engine Overheat System Preview")
 
 ## License
 Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE` for more information.
