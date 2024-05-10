@@ -1,13 +1,17 @@
 # FiveRP Engine Overheat System
 
 ## Overview
-This script enhances the realism of vehicle operation within the FiveRP roleplay environment by introducing an engine overheating mechanic. It is designed to work with the QBCore framework but can be adapted for other frameworks like ESX or standalone setups.
+This script enhances the realism of vehicle operation within the FiveRP roleplay environment by introducing an engine overheating mechanic. It is designed to work with the QBCore, ESX and Standalone.
+
+## Preview
+Watch a detailed overview and see the engine overheating system in action:
+[![FiveRP Engine Overheat System](https://i.gyazo.com/343e9a123c84c54b43d3d4780d14dd94.jpg)](https://www.youtube.com/watch?v=eu78cfjr99w "FiveRP Engine Overheat System Preview")
 
 ## Features
 - **Engine Overheating**: Vehicles can overheat if driven at high speeds for prolonged periods.
-- **Speed Threshold**: Overheating triggers when vehicles exceed 190 km/h.
+- **Speed Threshold**: Overheating triggers when vehicles exceed whatever km/h you have written in config.lua.
 - **Overheat Management**: Overheating effects can be reset after specific cooldown periods.
-- **Framework Compatibility**: Primarily supports QBCore, with potential adaptations for ESX.
+- **Framework Compatibility**: Supports QBCore, ESX and Standalone.
 - **Whitelist System**: Certain essential service vehicles like police and ambulance are immune to overheating.
 
 ## Installation
@@ -17,10 +21,6 @@ This script enhances the realism of vehicle operation within the FiveRP roleplay
 
 ## Configuration
 Edit the `config.lua` file to adjust settings like speed thresholds, unit of speed, and messages displayed to users. Ensure the framework is set correctly to match your server setup.
-
-## Preview
-Watch a detailed overview and see the engine overheating system in action:
-[![FiveRP Engine Overheat System](https://i.gyazo.com/343e9a123c84c54b43d3d4780d14dd94.jpg)](https://www.youtube.com/watch?v=eu78cfjr99w "FiveRP Engine Overheat System Preview")
 
 ## License
 Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE` for more information.
